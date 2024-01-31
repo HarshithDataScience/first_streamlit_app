@@ -12,3 +12,6 @@ streamlit.text("🥗 Smoothie")
 streamlit.text("🐔  Boiled eggs")
 
 streamlit.text("🥑 Avacado")
+
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
